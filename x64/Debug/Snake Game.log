@@ -1,4 +1,8 @@
 ﻿  Snake Game.cpp
+C:\Users\User\source\repos\Game Dev\Snake Game\Snake Game.cpp(54,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\Game Dev\Snake Game\Snake Game.cpp(55,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\Game Dev\Snake Game\Snake Game.cpp(61,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Game Dev\Snake Game\Snake Game.cpp(61,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
   Snake Game.vcxproj -> C:\Users\User\source\repos\Game Dev\Snake Game\x64\Debug\Snake Game.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
